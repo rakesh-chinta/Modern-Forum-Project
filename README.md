@@ -1,4 +1,4 @@
-# UdaciCards
+
 
 Project for the React Native course in Udacity's React Nanodegree.
 
